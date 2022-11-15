@@ -1,7 +1,8 @@
+![](assets/obsidian.png)
+
 # Obsidian Books Vault
 
 This Obsidian vault was created by exporting my Goodreads library of books to CSV. I then used [csvkit](https://csvkit.readthedocs.io/en/latest) and command line tools to convert the CSV format Goodreads data to Markdown. Each Markdown document created in this way contains extensive metadata that can be used to query the vault with Dataview.
-![](assets/obsidian.png)
 
 ## Usage
 

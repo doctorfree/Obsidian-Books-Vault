@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Roon_Playlist_Tracks.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roon_Playlist_Tracks.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roon_Playlist_Tracks.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roon_Playlist_Tracks.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roon_Playlist_Tracks.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "ceb6848f25cd8dfd",
   "lastOpenFiles": [
+    "Books/Groff_Conklin/13_Great_Stories_of_Science_Fiction.md",
+    "Books_by_Title.md",
+    "README.md",
     "Playlists/1972_Fifty_Tracks.md",
     "Roon_Playlist_Tracks.md",
     "Roon_Playlists.md",
     "Playlists/A_Mindmill_of_Winds.md",
     "Playlists/A_Procol_Harum.md",
     "Tracks_by_Playlist.md",
-    "Media_Index.md",
-    "README.md",
-    "Roon/CAKE/Sinking_Ship.md",
-    "Release_Notes.md"
+    "Media_Index.md"
   ]
 }
