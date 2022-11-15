@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# echo "| Book Id | Title | Author | Additional Authors | ISBN | ISBN13 | My Rating | Average Rating | Publisher | Binding | Number of Pages | Year Published | Bookshelves | Exclusive Shelf | My Review |" > Books.md
+# 
+# echo "|---------|-------|--------|--------------------|------|--------|----------|----------------|-----------|---------|-----------------|---------------|-------------|-----------------|-----------|" >> Books.md
+
+rm -f Books.md
+touch Books.md
+csvcut -c 1,2,3,5,6,7,8,9,10,11,12,14,17,19,20 data/good*.csv | \
+    csvformat -D \| | while read line
+    do
+        echo "| ${line} |" >> Books.md
+        [ "${first}" ] || {
+            echo "|---------|-------|--------|--------------------|------|--------|----------|----------------|-----------|---------|-----------------|---------------|-------------|-----------------|-----------|" >> Books.md
+            first=1
+        }
+    done

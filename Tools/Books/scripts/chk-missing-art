@@ -1,0 +1,25 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  cd "${artist}"
+  for album in *.md
+  do
+    [ "${album}" == "*.md" ] && continue
+    grep "/assets/bookcovers/" ${album} > /dev/null || {
+      echo "${artist}/${album}"
+    }
+  done
+  cd ..
+done

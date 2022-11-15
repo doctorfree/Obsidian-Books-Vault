@@ -1,0 +1,49 @@
+#!/bin/bash
+#
+# Lines look like:
+#
+# | Book Id |  Title   |   Author   | Author l-f  |      Additional Authors       |     ISBN      |      ISBN13      | My Rating | Average Rating | Publisher |  Binding  | Number of Pages | Year Published | Original Publication Year | Date Read | Date Added | Bookshelves | Bookshelves with positions | Exclusive Shelf | My Review | Spoiler | Private Notes | Read Count | Owned Copies |
+# |---------|----------|------------|-------------|-------------------------------|---------------|------------------|-----------|----------------|-----------|-----------|-----------------|----------------|---------------------------|-----------|------------|-------------|----------------------------|-----------------|-----------|---------|---------------|------------|--------------|
+# | 472331  | Watchmen | Alan Moore | Moore, Alan | Dave Gibbons, John    Higgins | ="0930289234" | ="9780930289232" | 5         | 4.37           | DC Comics | Paperback | 416             | 2005           | 1987                      |           | 2014/09/30 |             |                            | read            |           |         |               | 1          | 0            |
+
+[ -d ../books ] || mkdir ../books
+cd ../bookdata
+for book in Watchmen.md
+do
+    [ "${book}" == "*.md" ] && continue
+    line=`cat "${book}" | grep '^|' | tail -1`
+    [ "${line}" ] || {
+      echo "No table entry found in ${line} of ${book}. Skipping."
+      continue
+    }
+# | Book Id |  Title   |   Author   | Author l-f  |      Additional Authors       |     ISBN      |      ISBN13      | My Rating | Average Rating | Publisher |  Binding  | Number of Pages | Year Published | Original Publication Year | Date Read | Date Added | Bookshelves | Bookshelves with positions | Exclusive Shelf | My Review | Spoiler | Private Notes | Read Count | Owned Copies |
+#   arr=( $(echo ${line} | awk -F '|' '{for(i=1;i<=NF;i++){print $i ;}}') )
+    arr=( $(echo ${line} | awk -F '|' '{for(i=1;i<=NF;i++){printf "%s", $i (i<NF?OFS:ORS)}}') )
+    echo ${arr[@]}
+    echo "first: ${arr[0]}"
+    echo "second: ${arr[1]}"
+    echo "third: ${arr[2]}"
+    exit 0
+    bookid=`echo ${line} | awk -F '|' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    title=`echo ${line} | awk -F '|' ' { print $3 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    author=`echo ${line} | awk -F '|' ' { print $4 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    isbn=`echo ${line} | awk -F '|' ' { print $7 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    isbn13=`echo ${line} | awk -F '|' ' { print $8 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    rating=`echo ${line} | awk -F '|' ' { print $9 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    pages=`echo ${line} | awk -F '|' ' { print $13 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    echo "${book}: name=${pname}, type=${ptype}, abilities=${pabil}"
+    cat /tmp/b | sed \
+      -e "s/__NAME__/${pname}/" \
+      -e "s/__TYPE__/${ptype}/" \
+      -e "s/__ABIL__/${pabil}/" \
+      -e "s/__HITP__/${hitp}/" \
+      -e "s/__PATK__/${patk}/" \
+      -e "s/__PDEF__/${pdef}/" \
+      -e "s/__PSPA__/${pspa}/" \
+      -e "s/__PSPD__/${pspd}/" \
+      -e "s/__PSPE__/${pspe}/" \
+      -e "s/__PTOT__/${ptot}/" > /tmp/b$$
+    cat /tmp/b$$ ${book} > /tmp/poke$$
+    cp /tmp/poke$$ ${book}
+    rm -f /tmp/b$$ /tmp/poke$$
+done

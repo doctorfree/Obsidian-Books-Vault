@@ -1,0 +1,28 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for book in */*.md
+do
+  author=`echo ${book} | awk -F '/' ' { print $1 } '`
+  title=`echo ${book} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+  [ "${author}" == "${title}" ] && continue
+  grep "authorsort:" ${book} > /dev/null || {
+    authorname=`grep "author:" ${book} | head -1 | \
+      awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    lastname=`echo ${authorname} | awk ' { print $NF } '`
+    firstname=`echo ${authorname} | sed -e "s/ ${lastname}$//"`
+    echo "authorsort: ${lastname}, ${firstname}" > /tmp/__insert__
+    # Insert authorsort tag for this book
+    sed '/author:/e cat /tmp/__insert__' ${book} > /tmp/foo$$
+    cp /tmp/foo$$ ${book}
+    rm -f /tmp/foo$$ /tmp/__insert__
+  }
+done

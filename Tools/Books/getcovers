@@ -1,0 +1,37 @@
+#!/bin/bash
+#
+
+COVERS="../../assets/bookcovers"
+noimage="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+
+overwrite=
+list=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-l" ] && list=1
+
+[ -d ${COVERS} ] || mkdir -p ${COVERS}
+
+cat data/goodreads_library_export.csv | while read line
+do
+  bookid=
+  coverurl=
+  if [ "${first}" ]
+  then
+    bookid=`echo ${line} | csvcut -c 1`
+  else
+    first=1
+  fi
+  [ "${bookid}" ] || continue
+  coverurl=`grep "|${bookid}|" data/book_covers.md | tail -1 | awk -F '|' ' { print $3 } '`
+  [ "${coverurl}" == "${noimage}" ] && continue
+  [ "${coverurl}" ] && {
+    folder=`echo ${coverurl} | awk -F '/' ' { print $(NF-1) } '`
+    [ -d ${COVERS}/${folder} ] || mkdir -p ${COVERS}/${folder}
+    image=`echo ${coverurl} | awk -F '/' ' { print $NF } '`
+    [ -f ${COVERS}/${folder}/${image} ] && {
+      [ "${overwrite}" ] || continue
+    }
+    echo "Downloading cover art for ID ${bookid}, URL ${coverurl}"
+    [ "${list}" ] || curl --silent "$coverurl" > ${COVERS}/${folder}/${image}
+  }
+done

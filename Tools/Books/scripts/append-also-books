@@ -1,0 +1,36 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for author in *
+do
+  [ "${author}" == "*" ] && continue
+  [ -d "${author}" ] || continue
+  cd "${author}"
+  numbooks=`ls -1 *.md | wc -l`
+  [ ${numbooks} -gt 1 ] && {
+    for book in *.md
+    do
+      [ "${book}" == "*.md" ] && continue
+      echo "" >> ${book}
+      echo "## See also" >> ${book}
+      echo "" >> ${book}
+      for abook in *.md
+      do
+        [ "${abook}" == "*.md" ] && continue
+        [ "${abook}" == "${book}" ] && continue
+        title=`grep "title:" ${abook} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//'`
+        echo "- [${title}](${abook})" >> ${book}
+      done
+    done
+  }
+  cd ..
+done

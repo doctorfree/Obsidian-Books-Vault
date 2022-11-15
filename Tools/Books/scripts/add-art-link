@@ -1,0 +1,36 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+FILES="Wings/Wild_Life.md"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for book in ${FILES}
+do
+  [ -f ${book} ] || {
+    echo "${book} does not exist. Skipping."
+    continue
+  }
+  grep "/assets/bookcovers/" ${book} > /dev/null || {
+    author=`echo ${book} | awk -F '/' ' { print $1 } '`
+    rbook=`echo ${book} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+    # Insert book cover art link for this book
+    if [ -f "../assets/bookcovers/${author}-${rbook}.png" ]
+    then
+      echo "Inserting cover art link for ${author} - ${rbook}"
+      echo "![](../../assets/bookcovers/${author}-${rbook}.png)" > /tmp/__insert__
+      echo "" >> /tmp/__insert__
+      sed '/## Album Data/e cat /tmp/__insert__' ${book} > /tmp/foo$$
+      cp /tmp/foo$$ ${book}
+      rm -f /tmp/foo$$ /tmp/__insert__
+    else
+      echo "Cover art does not exist for ${author} - ${rbook}"
+    fi
+  }
+done

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "86cf686de95d4e86",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff7ba2d1c4fe4835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e6fe02ccd48f8d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Roon_Playlist_Tracks.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9999999999999989,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "ceb6848f25cd8dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roon_Playlist_Tracks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14ec9f7ffca2836a",
+    "type": "split",
+    "children": [
+      {
+        "id": "874941a2dfce2b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1c80b462cdce24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d5d584dd0bcc51e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa44e68e5308b086",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4c7389785266dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "76eea86c57a737df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7d0f8542edd744",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roon_Playlist_Tracks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58617b763176a4ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roon_Playlist_Tracks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e50750cff4fc355",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04c7f1ac0a326e38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roon_Playlist_Tracks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ceb6848f25cd8dfd",
+  "lastOpenFiles": [
+    "Playlists/1972_Fifty_Tracks.md",
+    "Roon_Playlist_Tracks.md",
+    "Roon_Playlists.md",
+    "Playlists/A_Mindmill_of_Winds.md",
+    "Playlists/A_Procol_Harum.md",
+    "Tracks_by_Playlist.md",
+    "Media_Index.md",
+    "README.md",
+    "Roon/CAKE/Sinking_Ship.md",
+    "Release_Notes.md"
+  ]
+}

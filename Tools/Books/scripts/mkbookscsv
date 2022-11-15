@@ -1,0 +1,19 @@
+#!/bin/bash
+
+[ -d csv ] || mkdir csv
+cat data/body | while read line
+do
+  title=`echo ${line} | awk -F ',' ' { print $2 } ' | \
+    sed -e "s% %_%g" \
+        -e "s%(%%g" \
+        -e "s%)%%g" \
+        -e "s%:%-%g" \
+        -e "s%\#%%g" \
+        -e "s%\.%%g" \
+        -e "s%\&%and%g" \
+        -e "s%\?%%g" \
+        -e "s%\\'%%g" \
+        -e "s%'%%g" \
+        -e "s%/%-%g"`
+  echo -e "$(cat data/head)\n${line}" > csv/${title}.csv
+done

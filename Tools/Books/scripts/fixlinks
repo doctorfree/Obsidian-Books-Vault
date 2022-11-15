@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# /assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+# /assets/no-picture-available.png
+# https://s.gr-assets.com/assets
+
+find Books -type f | while read book
+do
+  grep "https://s.gr-assets.com/assets" ${book} > /dev/null && {
+    cat "${book}" | sed -e "s%https://s.gr-assets.com/assets%../../assets%" > /tmp/link$$
+    cp /tmp/link$$ "${book}"
+    rm -f /tmp/link$$
+  }
+done

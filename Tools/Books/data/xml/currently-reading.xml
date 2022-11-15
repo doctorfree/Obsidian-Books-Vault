@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title>Ron's bookshelf: currently-reading</title>
+    <copyright><![CDATA[Copyright (C) 2022 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/review/list_rss/2401015?key=S32et3Fz0RHR5EvFXCAxe6F3vqx_GasSQVSDLnEQMQ_uO2kT&shelf=currently-reading]]></link>
+    <atom:link href="https://www.goodreads.com/review/list_rss/2401015?key=S32et3Fz0RHR5EvFXCAxe6F3vqx_GasSQVSDLnEQMQ_uO2kT&amp;shelf=currently-reading" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Ron's bookshelf: currently-reading]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Nov 2022 15:24:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title>Ron's bookshelf: currently-reading</title>
+      <link><![CDATA[https://www.goodreads.com/review/list_rss/2401015?key=S32et3Fz0RHR5EvFXCAxe6F3vqx_GasSQVSDLnEQMQ_uO2kT&shelf=currently-reading]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
+    </image>
+    
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/59800094?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sat, 05 Nov 2022 15:24:40 -0700]]></pubDate>
+    <title>Sex Diary of a Metaphysician</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/59800094?utm_medium=api&utm_source=rss]]></link>
+    <book_id>2157352</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245107610l/2157352._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245107610l/2157352._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245107610l/2157352._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245107610l/2157352.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Using sexual satire as a philosophical medium, Wilson brings us face to face with the paradox of male sexuality. Originally published in 1963, "Sex Diary" foretells the sexual revolution, psychedelia and the New Age. The book explores sexual magic, existentialism and personal growth.]]></book_description>
+    <book id="2157352">
+      <num_pages>256</num_pages>
+    </book>
+    <author_name>Colin Wilson</author_name>
+    <isbn>0914171593</isbn>
+    <user_name>Ron</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Sat, 05 Nov 2022 15:24:40 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Mon, 15 Jun 2009 16:30:47 -0700]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.25</average_rating>
+    <book_published>1963</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/2157352.Sex_Diary_of_a_Metaphysician?utm_medium=api&amp;utm_source=rss"><img alt="Sex Diary of a Metaphysician" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245107610l/2157352._SY75_.jpg" /></a><br/>
+                                      author: Colin Wilson<br/>
+                                      name: Ron<br/>
+                                      average rating: 4.25<br/>
+                                      book published: 1963<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2022/11/05<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+
+  </channel>
+</rss>

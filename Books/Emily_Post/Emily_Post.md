@@ -1,0 +1,7 @@
+# Emily Post
+
+[Wikipedia entry](https://en.wikipedia.org/wiki/Emily_Post)
+
+## Books
+
+- [Etiquette](Etiquette.md)
