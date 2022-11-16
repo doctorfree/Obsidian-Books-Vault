@@ -9,7 +9,7 @@ baseurl="https://www.goodreads.com/review/list_rss/2401015?key=S32et3Fz0RHR5EvFX
 shelves="read2 read3"
 
 # Enter the path to your Vault or XML download folder
-vaultpath="/home/ronnie/Documents/Obsidian/Obsidian-Media-Vault/Tools/Books/data/xml"
+vaultpath="/home/ronnie/Documents/Obsidian/Obsidian-Books-Vault/Tools/Books/data/xml"
 
 for shelf in ${shelves}
 do

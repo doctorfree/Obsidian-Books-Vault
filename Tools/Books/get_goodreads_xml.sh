@@ -52,7 +52,7 @@ shelves="anthologies biography bob brautigan conklin essays farmer fiction \
          read to-read"
 
 # Enter the path to your Vault or XML download folder
-vaultpath="/home/ronnie/Documents/Obsidian/Obsidian-Media-Vault/Tools/Books/data/xml"
+vaultpath="/home/ronnie/Documents/Obsidian/Obsidian-Books-Vault/Tools/Books/data/xml"
 
 for shelf in ${shelves}
 do

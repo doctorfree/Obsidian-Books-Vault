@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+TOP="${HOME}/Documents/Obsidian/Obsidian-Books-Vault/Books"
 
 FILES="Wings/Wild_Life.md"
 

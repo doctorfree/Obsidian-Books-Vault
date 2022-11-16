@@ -3,7 +3,7 @@
 ```shell
 #!/bin/bash
 
-TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+TOP="${HOME}/Documents/Obsidian/Obsidian-Books-Vault/Books"
 
 [ -d "${TOP}" ] || {
   echo "$TOP does not exist or is not a directory. Exiting."

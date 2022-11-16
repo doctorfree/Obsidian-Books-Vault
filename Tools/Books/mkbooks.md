@@ -9,7 +9,7 @@
 # Obsidian vault with the previous scripts. This script can generate lists
 # of books sorted by author or title in list or table format.
 
-VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Books-Vault"
 TOP="${VAULT}/Books"
 
 usage() {
@@ -19,7 +19,7 @@ usage() {
   printf "\n\t-T indicates sort by Title (default)"
   printf "\n\t-f indicates overwrite any pre-existing Books index markdown"
   printf "\n\t-p /path/to/Books specifies the full path to the Books folder"
-  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books)"
+  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Books-Vault/Books)"
   printf "\n\t-t indicates create a table rather than listing"
   printf "\n\t-u displays this usage message and exits\n\n"
   exit 1
