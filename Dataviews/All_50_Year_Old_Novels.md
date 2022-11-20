@@ -12,7 +12,7 @@ This code displays all novels from the Books folder published prior to 1973 sort
 ```dataview
 TABLE WITHOUT ID
   author AS "Author",
-  title AS "Title",
+  link(file.link, title) as Title,
   published AS "Year"
 FROM "Books"
 WHERE contains(shelves, "novels") AND author != null AND title != null AND published < 1973
@@ -25,7 +25,7 @@ Output of above code:
 ```dataview
 TABLE WITHOUT ID
   author AS "Author",
-  title AS "Title",
+  link(file.link, title) as Title,
   published AS "Year"
 FROM "Books"
 WHERE contains(shelves, "novels") AND author != null AND title != null AND published < 1973

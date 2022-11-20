@@ -12,7 +12,7 @@ This code displays all books from the Books folder sorted by author.
 ```dataview
 TABLE WITHOUT ID
   author AS "Author",
-  title AS "Title",
+  link(file.link, title) as Title,
   published AS "Year"
 FROM "Books"
 WHERE author != null AND title != null
@@ -25,7 +25,7 @@ Output of above code:
 ```dataview
 TABLE WITHOUT ID
   author AS "Author",
-  title AS "Title",
+  link(file.link, title) as Title,
   published AS "Year"
 FROM "Books"
 WHERE author != null AND title != null

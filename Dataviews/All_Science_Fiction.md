@@ -12,7 +12,7 @@ This code displays all science fiction from the Books folder sorted by year publ
 ```dataview
 TABLE WITHOUT ID
   author AS "Author",
-  title AS "Title",
+  link(file.link, title) as Title,
   published AS "Year"
 FROM "Books"
 WHERE contains(shelves, "science-fiction") AND author != null AND title != null
@@ -25,7 +25,7 @@ Output of above code:
 ```dataview
 TABLE WITHOUT ID
   author AS "Author",
-  title AS "Title",
+  link(file.link, title) as Title,
   published AS "Year"
 FROM "Books"
 WHERE contains(shelves, "science-fiction") AND author != null AND title != null

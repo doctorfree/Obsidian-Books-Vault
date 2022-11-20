@@ -61,7 +61,7 @@ The above book metadata can be used to perform Dataview queries to search, filte
 ````markdown
 ```dataview
 TABLE
-  title AS "Title",
+  link(file.link, title) as Title,
   author AS "Author",
   published AS "Year"
 FROM "Books"
