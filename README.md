@@ -15,7 +15,7 @@ This Obsidian vault was created by exporting my Goodreads library of books to CS
 1. [Download the vault](https://github.com/doctorfree/Obsidian-Books-Vault/releases/latest)
 3. Open the vault in Obsidian via "Open another vault -> Open folder as vault"
 4. Trust us. :) 
-5. When Obsidian opens the settings, hit the switch on "Dataview" to enable the plugin
+5. When Obsidian opens the settings, verify that "Dataview" and other community plugins are enabled
 6. Done! The Obsidian Books Vault is now available to you in its purest and most useful form!
 
 ## Obsidian Media Vault
@@ -30,11 +30,11 @@ Get started browsing the [Obsidian Media Vault](https://github.com/doctorfree/Ob
 
 ## Dataview
 
-The Obsidian Media Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Media Queries](https://github.com/doctorfree/Obsidian-Media-Vault/Media_Queries.md) document.
+The Obsidian Books Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Books Queries](Books_Queries.md) document.
 
-Additional visual representations of the Media Vault, also based upon Dataview queries, are provided by the [Excalibrain](https://github.com/zsviczian/excalibrain) Obsidian plugin.
+Additional visual representations of the Books Vault, also based upon Dataview queries, are provided by the [Excalibrain](https://github.com/zsviczian/excalibrain) Obsidian plugin.
 
-The Obsidian Media Vault markdown contains metadata with tags allowing a variety of Obsidian Dataview queries. For example, the markdown of the book "Timequake" by Kurt Vonnegut Jr. has the following YAML prelude:
+The Obsidian Books Vault markdown contains metadata with tags allowing a variety of Obsidian Dataview queries. For example, the markdown of the book "Timequake" by Kurt Vonnegut Jr. has the following YAML prelude:
 
 ```yaml
 ---
@@ -75,13 +75,14 @@ SORT published ASC
 - [All 50 Year Old Novels](Dataviews/All_50_Year_Old_Novels.md)
 - [All Books](Dataviews/All_Books.md)
 - [All Read Books](Dataviews/All_Read_Books.md)
+- [All Science Fiction Books](Dataviews/All_Science_Fiction.md)
 - [All Unread Books](Dataviews/All_Unread_Books.md)
 
-### Screenshot of example Media Vault Dataview query
+### Screenshot of example Books Vault Dataview query
 
 ![Dataview Queries](assets/dataview.png)
 
-Sample queries along with the code used to perform them can be viewed in the [Media Queries](https://github.com/doctorfree/Obsidian-Media-Vault/Media_Queries.md) document.
+Sample queries along with the code used to perform them can be viewed in the [Books Queries](Books_Queries.md) document.
 
 ## Books
 
@@ -95,7 +96,7 @@ The Books sub-vault is organized by author subfolders. For example, all books by
 
 ## Process
 
-See the [Process](https://github.com/doctorfree/Obsidian-Media-Vault/Process.md) document for a detailed description of the tools and process used to generate this vault.
+See the [Process](Process.md) document for a detailed description of the tools and process used to generate this vault.
 
 ## Recommended Obsidian Plugins
 
@@ -115,8 +116,6 @@ Obsidian community plugins we have found useful and can recommend include the fo
 
 ## See also
 
-- [Index of the Media Vault](https://github.com/doctorfree/Obsidian-Media-Vault/Media_Index.md)
-- [Media Queries](https://github.com/doctorfree/Obsidian-Media-Vault/Media_Queries.md)
-- [Process](https://github.com/doctorfree/Obsidian-Media-Vault/Process.md)
-
-![Alt](https://repobeats.axiom.co/api/embed/03ba6f6b7c7508d79cc789792624f997c863b2c3.svg "Repobeats analytics image")
+- [Index of the Books Vault](Books_Index.md)
+- [Books Queries](Books_Queries.md)
+- [Process](Process.md)
