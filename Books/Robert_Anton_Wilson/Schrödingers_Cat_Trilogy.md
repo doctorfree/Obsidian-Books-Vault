@@ -1,5 +1,6 @@
 ---
 bookid: 62567
+coverart: assets/bookcovers/1433815495l/62567._SY475_.jpg
 title: Schrödinger's Cat Trilogy
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

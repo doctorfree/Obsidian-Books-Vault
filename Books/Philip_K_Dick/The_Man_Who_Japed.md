@@ -1,5 +1,6 @@
 ---
 bookid: 6005230
+coverart: assets/bookcovers/1229483520l/6005230.jpg
 title: The Man Who Japed
 authorsort: Dick, Philip K.
 author: Philip K. Dick

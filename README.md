@@ -1,4 +1,8 @@
-![](assets/obsidian.png)
+---
+banner: "assets/banners/Obsidian-Banner.png"
+banner_x: 0.5
+banner_y: 0.5
+---
 
 # Obsidian Books Vault
 
@@ -65,6 +69,13 @@ WHERE author = "Kurt Vonnegut Jr." and published < 1970
 SORT published ASC
 ```
 ````
+
+### Example Books Dataview Queries
+
+- [All 50 Year Old Novels](Dataviews/All_50_Year_Old_Novels.md)
+- [All Books](Dataviews/All_Books.md)
+- [All Read Books](Dataviews/All_Read_Books.md)
+- [All Unread Books](Dataviews/All_Unread_Books.md)
 
 ### Screenshot of example Media Vault Dataview query
 

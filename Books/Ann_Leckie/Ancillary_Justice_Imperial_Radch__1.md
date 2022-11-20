@@ -1,5 +1,6 @@
 ---
 bookid: 17333324
+coverart: assets/bookcovers/1597476110l/17333324._SY475_.jpg
 title: "Ancillary Justice (Imperial Radch, #1)"
 authorsort: Leckie, Ann
 author: Ann Leckie

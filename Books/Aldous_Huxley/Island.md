@@ -1,5 +1,6 @@
 ---
 bookid: 5130
+coverart: assets/bookcovers/1375947541l/5130.jpg
 title: Island
 authorsort: Huxley, Aldous
 author: Aldous Huxley

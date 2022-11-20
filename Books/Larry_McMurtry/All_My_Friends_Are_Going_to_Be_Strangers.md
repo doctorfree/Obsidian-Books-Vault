@@ -1,5 +1,6 @@
 ---
 bookid: 54827
+coverart: assets/bookcovers/1411349864l/54827.jpg
 title: All My Friends Are Going to Be Strangers
 authorsort: McMurtry, Larry
 author: Larry McMurtry

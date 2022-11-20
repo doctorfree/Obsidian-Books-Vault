@@ -1,5 +1,6 @@
 ---
 bookid: 6218049
+coverart: assets/bookcovers/1565226009l/6218049._SY475_.jpg
 title: Possible Worlds of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

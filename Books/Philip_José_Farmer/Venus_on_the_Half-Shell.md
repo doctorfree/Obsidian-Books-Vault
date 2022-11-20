@@ -1,5 +1,6 @@
 ---
 bookid: 171066
+coverart: assets/bookcovers/1323048800l/171066.jpg
 title: Venus on the Half-Shell
 authorsort: Farmer, Philip José
 author: Philip José Farmer

@@ -1,5 +1,6 @@
 ---
 bookid: 412732
+coverart: assets/bookcovers/1428986082l/412732.jpg
 title: The Dharma Bums
 authorsort: Kerouac, Jack
 author: Jack Kerouac

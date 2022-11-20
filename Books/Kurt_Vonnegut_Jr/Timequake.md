@@ -1,5 +1,6 @@
 ---
 bookid: 9594
+coverart: assets/bookcovers/1405784951l/9594.jpg
 title: Timequake
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

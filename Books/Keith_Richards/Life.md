@@ -1,5 +1,6 @@
 ---
 bookid: 9439303
+coverart: assets/bookcovers/1327960451l/9439303.jpg
 title: Life
 authorsort: Richards, Keith
 author: Keith Richards

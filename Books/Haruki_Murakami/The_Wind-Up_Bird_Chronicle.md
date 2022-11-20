@@ -1,5 +1,6 @@
 ---
 bookid: 11275
+coverart: assets/bookcovers/1327872639l/11275.jpg
 title: The Wind-Up Bird Chronicle
 authorsort: Murakami, Haruki
 author: Haruki Murakami

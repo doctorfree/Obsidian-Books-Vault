@@ -1,5 +1,6 @@
 ---
 bookid: 1179647
+coverart: assets/bookcovers/1336448337l/1179647.jpg
 title: 13 Great Stories of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

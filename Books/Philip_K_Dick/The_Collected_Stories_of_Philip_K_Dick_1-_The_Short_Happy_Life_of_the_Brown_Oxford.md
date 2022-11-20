@@ -1,5 +1,6 @@
 ---
 bookid: 22592
+coverart: assets/bookcovers/1262260410l/22592.jpg
 title: The Collected Stories of Philip K. Dick 1: The Short Happy Life of the Brown Oxford
 authorsort: Dick, Philip K.
 author: Philip K. Dick

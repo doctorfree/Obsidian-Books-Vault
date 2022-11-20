@@ -1,5 +1,6 @@
 ---
 bookid: 8642149
+coverart: assets/bookcovers/1390335646l/8642149.jpg
 title: "Uncle John's Heavy Duty Bathroom Reader (Uncle John's Bathroom Reader, #23)"
 authorsort: Institute, Bathroom Readers'
 author: Bathroom Readers' Institute

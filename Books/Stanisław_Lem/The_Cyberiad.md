@@ -1,5 +1,6 @@
 ---
 bookid: 18194
+coverart: assets/bookcovers/1166889908l/18194.jpg
 title: The Cyberiad
 authorsort: Lem, Stanisław
 author: Stanisław Lem

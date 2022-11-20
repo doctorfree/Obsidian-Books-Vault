@@ -1,5 +1,6 @@
 ---
 bookid: 890
+coverart: assets/bookcovers/1511302904l/890._SX318_.jpg
 title: Of Mice and Men
 authorsort: Steinbeck, John
 author: John Steinbeck

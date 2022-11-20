@@ -1,5 +1,6 @@
 ---
 bookid: 190038
+coverart: assets/bookcovers/1388184191l/190038.jpg
 title: Critical Path
 authorsort: Fuller, R. Buckminster
 author: R. Buckminster Fuller

@@ -1,5 +1,6 @@
 ---
 bookid: 19288043
+coverart: assets/bookcovers/1554086139l/19288043.jpg
 title: Gone Girl
 authorsort: Flynn, Gillian
 author: Gillian Flynn

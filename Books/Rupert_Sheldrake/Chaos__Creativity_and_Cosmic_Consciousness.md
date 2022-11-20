@@ -1,5 +1,6 @@
 ---
 bookid: 369072
+coverart: assets/bookcovers/1389376496l/369072.jpg
 title: "Chaos, Creativity and Cosmic Consciousness"
 authorsort: Sheldrake, Rupert
 author: Rupert Sheldrake

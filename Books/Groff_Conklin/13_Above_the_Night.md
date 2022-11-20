@@ -1,5 +1,6 @@
 ---
 bookid: 869082
+coverart: assets/bookcovers/1327538692l/869082.jpg
 title: 13 Above the Night
 authorsort: Conklin, Groff
 author: Groff Conklin

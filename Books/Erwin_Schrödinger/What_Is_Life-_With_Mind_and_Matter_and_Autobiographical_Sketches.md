@@ -1,5 +1,6 @@
 ---
 bookid: 13832134
+coverart: assets/bookcovers/1337531762l/13832134.jpg
 title: What Is Life?: With Mind and Matter and Autobiographical Sketches
 authorsort: Schrödinger, Erwin
 author: Erwin Schrödinger

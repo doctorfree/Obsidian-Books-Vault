@@ -1,5 +1,6 @@
 ---
 bookid: 4984
+coverart: assets/bookcovers/1327353727l/4984.jpg
 title: Bagombo Snuff Box
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

@@ -1,5 +1,6 @@
 ---
 bookid: 17803
+coverart: assets/bookcovers/1437952316l/17803._SY475_.jpg
 title: After Dark
 authorsort: Murakami, Haruki
 author: Haruki Murakami

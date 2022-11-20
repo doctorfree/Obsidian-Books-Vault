@@ -1,5 +1,6 @@
 ---
 bookid: 22584
+coverart: assets/bookcovers/1398026028l/22584.jpg
 title: "Flow My Tears, the Policeman Said"
 authorsort: Dick, Philip K.
 author: Philip K. Dick

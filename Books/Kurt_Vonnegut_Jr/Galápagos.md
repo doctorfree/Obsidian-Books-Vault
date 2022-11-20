@@ -1,5 +1,6 @@
 ---
 bookid: 9593
+coverart: assets/bookcovers/1585146350l/9593._SY475_.jpg
 title: Galápagos
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

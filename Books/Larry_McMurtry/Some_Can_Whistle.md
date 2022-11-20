@@ -1,5 +1,6 @@
 ---
 bookid: 250472
+coverart: assets/bookcovers/1400879483l/250472.jpg
 title: Some Can Whistle
 authorsort: McMurtry, Larry
 author: Larry McMurtry

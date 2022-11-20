@@ -1,5 +1,6 @@
 ---
 bookid: 142913
+coverart: assets/bookcovers/1328856914l/142913.jpg
 title: Zodiac: The Eco-Thriller
 authorsort: Stephenson, Neal
 author: Neal Stephenson

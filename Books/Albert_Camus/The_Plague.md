@@ -1,5 +1,6 @@
 ---
 bookid: 441870
+coverart: assets/bookcovers/1314404429l/441870.jpg
 title: The Plague
 authorsort: Camus, Albert
 author: Albert Camus

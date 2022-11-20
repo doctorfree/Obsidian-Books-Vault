@@ -1,5 +1,6 @@
 ---
 bookid: 2090460
+coverart: assets/bookcovers/1218934195l/2090460.jpg
 title: The Winter of Our Discontent
 authorsort: Steinbeck, John
 author: John Steinbeck

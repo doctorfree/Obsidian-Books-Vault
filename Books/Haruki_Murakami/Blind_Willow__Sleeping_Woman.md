@@ -1,5 +1,6 @@
 ---
 bookid: 45296
+coverart: assets/bookcovers/1441292330l/45296.jpg
 title: "Blind Willow, Sleeping Woman"
 authorsort: Murakami, Haruki
 author: Haruki Murakami

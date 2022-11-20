@@ -1,5 +1,6 @@
 ---
 bookid: 168567
+coverart: assets/bookcovers/1436549988l/168567._SX318_.jpg
 title: Audrey Hepburn: The Paramount Years
 authorsort: Nourmand, Tony
 author: Tony Nourmand

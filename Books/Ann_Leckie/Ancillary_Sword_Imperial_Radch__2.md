@@ -1,5 +1,6 @@
 ---
 bookid: 20706284
+coverart: assets/bookcovers/1597476183l/20706284._SY475_.jpg
 title: "Ancillary Sword (Imperial Radch, #2)"
 authorsort: Leckie, Ann
 author: Ann Leckie

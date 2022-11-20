@@ -1,5 +1,6 @@
 ---
 bookid: 741352
+coverart: assets/bookcovers/1347330450l/741352.jpg
 title: The Intelligence Agents
 authorsort: Leary, Timothy
 author: Timothy Leary

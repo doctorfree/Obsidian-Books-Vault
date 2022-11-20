@@ -1,5 +1,6 @@
 ---
 bookid: 22595
+coverart: assets/bookcovers/1355411639l/22595.jpg
 title: Vulcan's Hammer
 authorsort: Dick, Philip K.
 author: Philip K. Dick

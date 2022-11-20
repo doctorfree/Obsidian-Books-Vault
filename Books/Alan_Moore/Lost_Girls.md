@@ -1,5 +1,6 @@
 ---
 bookid: 58652
+coverart: assets/bookcovers/1388194140l/58652.jpg
 title: Lost Girls
 authorsort: Moore, Alan
 author: Alan Moore

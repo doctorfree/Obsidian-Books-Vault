@@ -1,5 +1,6 @@
 ---
 bookid: 6557221
+coverart: assets/bookcovers/1245377291l/6557221.jpg
 title: Cache from Outer Space/Celestial Blueprint
 authorsort: Farmer, Philip José
 author: Philip José Farmer

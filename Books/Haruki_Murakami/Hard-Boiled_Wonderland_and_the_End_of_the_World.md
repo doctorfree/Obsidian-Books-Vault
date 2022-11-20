@@ -1,5 +1,6 @@
 ---
 bookid: 106484
+coverart: assets/bookcovers/1320525702l/106484.jpg
 title: Hard-Boiled Wonderland and the End of the World
 authorsort: Murakami, Haruki
 author: Haruki Murakami

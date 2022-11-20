@@ -1,5 +1,6 @@
 ---
 bookid: 226490
+coverart: assets/bookcovers/1541856815l/226490._SY475_.jpg
 title: The Golden Man
 authorsort: Dick, Philip K.
 author: Philip K. Dick

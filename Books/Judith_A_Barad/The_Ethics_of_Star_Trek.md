@@ -1,5 +1,6 @@
 ---
 bookid: 422906
+coverart: assets/bookcovers/1312063106l/422906.jpg
 title: The Ethics of Star Trek
 authorsort: Barad, Judith A.
 author: Judith A. Barad

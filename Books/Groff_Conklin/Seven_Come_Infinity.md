@@ -1,5 +1,6 @@
 ---
 bookid: 2393511
+coverart: assets/bookcovers/1303929733l/2393511.jpg
 title: Seven Come Infinity
 authorsort: Conklin, Groff
 author: Groff Conklin

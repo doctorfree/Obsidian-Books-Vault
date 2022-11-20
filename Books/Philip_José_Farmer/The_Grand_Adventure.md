@@ -1,5 +1,6 @@
 ---
 bookid: 1312272
+coverart: assets/bookcovers/1245362385l/1312272.jpg
 title: The Grand Adventure
 authorsort: Farmer, Philip José
 author: Philip José Farmer

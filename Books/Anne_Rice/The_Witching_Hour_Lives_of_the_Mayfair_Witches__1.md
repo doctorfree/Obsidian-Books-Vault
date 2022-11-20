@@ -1,5 +1,6 @@
 ---
 bookid: 11901
+coverart: assets/bookcovers/1327289387l/11901.jpg
 title: "The Witching Hour (Lives of the Mayfair Witches, #1)"
 authorsort: Rice, Anne
 author: Anne Rice

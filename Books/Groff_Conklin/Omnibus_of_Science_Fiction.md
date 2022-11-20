@@ -1,5 +1,6 @@
 ---
 bookid: 2318155
+coverart: assets/bookcovers/1243448117l/2318155.jpg
 title: Omnibus of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

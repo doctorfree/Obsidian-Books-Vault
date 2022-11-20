@@ -1,5 +1,6 @@
 ---
 bookid: 6555065
+coverart: assets/bookcovers/1245263394l/6555065.jpg
 title: A Confederate General from Big Sur
 authorsort: Brautigan, Richard
 author: Richard Brautigan

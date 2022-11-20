@@ -1,5 +1,6 @@
 ---
 bookid: 22582
+coverart: assets/bookcovers/1388228274l/22582.jpg
 title: "Lies, Inc."
 authorsort: Dick, Philip K.
 author: Philip K. Dick

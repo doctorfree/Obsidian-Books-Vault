@@ -1,5 +1,6 @@
 ---
 bookid: 96647
+coverart: assets/bookcovers/1348688305l/96647.jpg
 title: Scar Tissue
 authorsort: Kiedis, Anthony
 author: Anthony Kiedis

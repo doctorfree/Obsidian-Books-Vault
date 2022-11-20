@@ -1,5 +1,6 @@
 ---
 bookid: 3073942
+coverart: assets/bookcovers/1372952843l/3073942.jpg
 title: 12 Great Classics of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

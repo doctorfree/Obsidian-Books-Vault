@@ -1,5 +1,6 @@
 ---
 bookid: 2969455
+coverart: assets/bookcovers/1240527514l/2969455.jpg
 title: The Illustrated Man
 authorsort: Bradbury, Ray
 author: Ray Bradbury

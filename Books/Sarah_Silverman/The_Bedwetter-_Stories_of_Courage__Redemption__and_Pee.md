@@ -1,5 +1,6 @@
 ---
 bookid: 7897478
+coverart: assets/bookcovers/1269295414l/7897478.jpg
 title: "The Bedwetter: Stories of Courage, Redemption, and Pee"
 authorsort: Silverman, Sarah
 author: Sarah Silverman

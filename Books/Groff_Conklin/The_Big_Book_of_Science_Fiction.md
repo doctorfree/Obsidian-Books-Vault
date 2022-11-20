@@ -1,5 +1,6 @@
 ---
 bookid: 6218057
+coverart: assets/bookcovers/1238890181l/6218057.jpg
 title: The Big Book of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

@@ -1,5 +1,6 @@
 ---
 bookid: 35061344
+coverart: assets/bookcovers/1493892300l/35061344._SY475_.jpg
 title: Snow Crash
 authorsort: Stephenson, Neal
 author: Neal Stephenson

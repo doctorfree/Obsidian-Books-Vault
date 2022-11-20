@@ -1,5 +1,6 @@
 ---
 bookid: 48462
+coverart: assets/bookcovers/1412900634l/48462.jpg
 title: Collected Works: Wise Blood / A Good Man Is Hard to Find / The Violent Bear It Away / Everything That Rises Must Converge / Essays and Letters
 authorsort: O'Connor, Flannery
 author: Flannery O'Connor

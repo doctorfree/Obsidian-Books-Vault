@@ -1,5 +1,6 @@
 ---
 bookid: 46756
+coverart: assets/bookcovers/1170343190l/46756.jpg
 title: "Oryx and Crake (MaddAddam, #1)"
 authorsort: Atwood, Margaret
 author: Margaret Atwood

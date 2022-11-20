@@ -1,5 +1,6 @@
 ---
 bookid: 95777
+coverart: assets/bookcovers/1348640378l/95777.jpg
 title: At Canaan's Edge: America in the King Years 1965-68
 authorsort: Branch, Taylor
 author: Taylor Branch

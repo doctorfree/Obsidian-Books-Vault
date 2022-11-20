@@ -1,5 +1,6 @@
 ---
 bookid: 4137
+coverart: assets/bookcovers/1431013639l/4137.jpg
 title: Me Talk Pretty One Day
 authorsort: Sedaris, David
 author: David Sedaris

@@ -1,5 +1,6 @@
 ---
 bookid: 226476
+coverart: assets/bookcovers/1172871052l/226476._SY475_.jpg
 title: The Simulacra
 authorsort: Dick, Philip K.
 author: Philip K. Dick

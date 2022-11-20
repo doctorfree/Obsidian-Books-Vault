@@ -1,5 +1,6 @@
 ---
 bookid: 13038865
+coverart: assets/bookcovers/1344268379l/13038865.jpg
 title: Woe to Live on
 authorsort: Woodrell, Daniel
 author: Daniel Woodrell

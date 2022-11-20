@@ -1,5 +1,6 @@
 ---
 bookid: 5998075
+coverart: assets/bookcovers/1312228826l/5998075.jpg
 title: Clans of the Alphane Moon
 authorsort: Dick, Philip K.
 author: Philip K. Dick

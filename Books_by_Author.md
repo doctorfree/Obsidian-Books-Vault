@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Books-Banner.png"
+banner_x: 1.0
+banner_y: 1.0
+---
+
 # Books
 
 ## See also

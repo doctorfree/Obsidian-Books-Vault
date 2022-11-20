@@ -1,5 +1,6 @@
 ---
 bookid: 54823
+coverart: assets/bookcovers/1651921515l/54823._SY475_.jpg
 title: Moving On
 authorsort: McMurtry, Larry
 author: Larry McMurtry

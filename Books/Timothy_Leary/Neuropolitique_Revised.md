@@ -1,5 +1,6 @@
 ---
 bookid: 817625
+coverart: assets/bookcovers/1347249876l/817625.jpg
 title: Neuropolitique (Revised)
 authorsort: Leary, Timothy
 author: Timothy Leary

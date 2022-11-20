@@ -1,5 +1,6 @@
 ---
 bookid: 248596
+coverart: assets/bookcovers/1409596011l/248596.jpg
 title: "Something Wicked This Way Comes (Green Town, #2)"
 authorsort: Bradbury, Ray
 author: Ray Bradbury

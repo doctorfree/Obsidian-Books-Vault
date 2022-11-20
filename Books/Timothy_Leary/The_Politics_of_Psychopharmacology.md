@@ -1,5 +1,6 @@
 ---
 bookid: 1100281
+coverart: assets/bookcovers/1347367259l/1100281.jpg
 title: The Politics of Psychopharmacology
 authorsort: Leary, Timothy
 author: Timothy Leary

@@ -1,5 +1,6 @@
 ---
 bookid: 22462852
+coverart: assets/bookcovers/1402626036l/22462852.jpg
 title: Double Star
 authorsort: Heinlein, Robert A.
 author: Robert A. Heinlein

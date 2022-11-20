@@ -1,5 +1,6 @@
 ---
 bookid: 25451264
+coverart: assets/bookcovers/1430330507l/25451264.jpg
 title: "Death's End (Remembrance of Earth’s Past, #3)"
 authorsort: Cixin, Liu
 author: Liu Cixin

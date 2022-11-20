@@ -1,5 +1,6 @@
 ---
 bookid: 39671
+coverart: assets/bookcovers/1454520887l/39671._SX318_.jpg
 title: The Real Frank Zappa Book
 authorsort: Zappa, Frank
 author: Frank Zappa

@@ -1,5 +1,6 @@
 ---
 bookid: 13514
+coverart: assets/bookcovers/1428709957l/13514.jpg
 title: The Fairy Tales of Hermann Hesse
 authorsort: Hesse, Hermann
 author: Hermann Hesse

@@ -1,5 +1,6 @@
 ---
 bookid: 302666
+coverart: assets/bookcovers/1432955098l/302666._SX318_.jpg
 title: The Hawkline Monster
 authorsort: Brautigan, Richard
 author: Richard Brautigan

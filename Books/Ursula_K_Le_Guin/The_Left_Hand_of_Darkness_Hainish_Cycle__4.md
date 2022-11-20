@@ -1,5 +1,6 @@
 ---
 bookid: 18423
+coverart: assets/bookcovers/1488213612l/18423._SY475_.jpg
 title: "The Left Hand of Darkness (Hainish Cycle, #4)"
 authorsort: Guin, Ursula K. Le
 author: Ursula K. Le Guin

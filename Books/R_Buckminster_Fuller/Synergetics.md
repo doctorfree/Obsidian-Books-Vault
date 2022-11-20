@@ -1,5 +1,6 @@
 ---
 bookid: 285356
+coverart: assets/bookcovers/1387714319l/285356.jpg
 title: Synergetics
 authorsort: Fuller, R. Buckminster
 author: R. Buckminster Fuller

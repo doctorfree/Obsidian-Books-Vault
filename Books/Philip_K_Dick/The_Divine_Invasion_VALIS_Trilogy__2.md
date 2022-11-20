@@ -1,5 +1,6 @@
 ---
 bookid: 2463772
+coverart: assets/bookcovers/1229227398l/2463772.jpg
 title: "The Divine Invasion (VALIS Trilogy, #2)"
 authorsort: Dick, Philip K.
 author: Philip K. Dick

@@ -1,5 +1,6 @@
 ---
 bookid: 558059
+coverart: assets/bookcovers/1315596427l/558059.jpg
 title: The Fractal Geometry of Nature
 authorsort: Mandelbrot, Benoît B.
 author: Benoît B. Mandelbrot

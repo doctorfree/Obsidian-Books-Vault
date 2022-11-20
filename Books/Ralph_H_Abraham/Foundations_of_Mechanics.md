@@ -1,5 +1,6 @@
 ---
 bookid: 3372518
+coverart: assets/bookcovers/1256131512l/3372518.jpg
 title: Foundations of Mechanics
 authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham

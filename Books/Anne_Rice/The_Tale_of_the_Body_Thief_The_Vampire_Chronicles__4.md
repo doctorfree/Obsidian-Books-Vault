@@ -1,5 +1,6 @@
 ---
 bookid: 31336
+coverart: assets/bookcovers/1556274035l/31336.jpg
 title: "The Tale of the Body Thief (The Vampire Chronicles, #4)"
 authorsort: Rice, Anne
 author: Anne Rice

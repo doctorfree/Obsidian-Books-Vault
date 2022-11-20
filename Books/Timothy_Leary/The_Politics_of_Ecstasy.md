@@ -1,5 +1,6 @@
 ---
 bookid: 275301
+coverart: assets/bookcovers/1388780590l/275301.jpg
 title: The Politics of Ecstasy
 authorsort: Leary, Timothy
 author: Timothy Leary

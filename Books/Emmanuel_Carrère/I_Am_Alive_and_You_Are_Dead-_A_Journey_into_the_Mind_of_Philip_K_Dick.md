@@ -1,5 +1,6 @@
 ---
 bookid: 22593
+coverart: assets/bookcovers/1312053865l/22593.jpg
 title: I Am Alive and You Are Dead: A Journey into the Mind of Philip K. Dick
 authorsort: Carrère, Emmanuel
 author: Emmanuel Carrère

@@ -1,5 +1,6 @@
 ---
 bookid: 22446
+coverart: assets/bookcovers/1403206437l/22446.jpg
 title: Book of Lies: The Disinformation Guide to Magick and the Occult
 authorsort: Metzger, Richard
 author: Richard Metzger

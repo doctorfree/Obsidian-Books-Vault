@@ -1,5 +1,6 @@
 ---
 bookid: 18626857
+coverart: assets/bookcovers/1394754946l/18626857.jpg
 title: The Adventures of Sherlock Holmes
 authorsort: Doyle, Arthur Conan
 author: Arthur Conan Doyle

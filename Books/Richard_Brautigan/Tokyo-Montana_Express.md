@@ -1,5 +1,6 @@
 ---
 bookid: 12574
+coverart: assets/bookcovers/1166504982l/12574.jpg
 title: Tokyo-Montana Express
 authorsort: Brautigan, Richard
 author: Richard Brautigan

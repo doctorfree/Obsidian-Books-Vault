@@ -1,5 +1,6 @@
 ---
 bookid: 294609
+coverart: assets/bookcovers/1615664076l/294609._SY475_.jpg
 title: Antic Hay
 authorsort: Huxley, Aldous
 author: Aldous Huxley

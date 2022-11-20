@@ -1,5 +1,6 @@
 ---
 bookid: 13623817
+coverart: assets/bookcovers/1346235303l/13623817.jpg
 title: "Angelfall (Penryn & the End of Days, #1)"
 authorsort: Ee, Susan
 author: Susan Ee

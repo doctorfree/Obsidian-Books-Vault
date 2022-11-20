@@ -1,5 +1,6 @@
 ---
 bookid: 395143
+coverart: assets/bookcovers/1442466522l/395143._SY475_.jpg
 title: Outer Dark
 authorsort: McCarthy, Cormac
 author: Cormac McCarthy

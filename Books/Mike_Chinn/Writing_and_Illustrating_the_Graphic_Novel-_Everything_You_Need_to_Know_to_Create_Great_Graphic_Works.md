@@ -1,5 +1,6 @@
 ---
 bookid: 160446
+coverart: assets/bookcovers/1348758697l/160446.jpg
 title: Writing and Illustrating the Graphic Novel: Everything You Need to Know to Create Great Graphic Works
 authorsort: Chinn, Mike
 author: Mike Chinn

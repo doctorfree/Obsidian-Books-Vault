@@ -1,5 +1,6 @@
 ---
 bookid: 9570
+coverart: assets/bookcovers/1327866271l/9570.jpg
 title: Another Roadside Attraction
 authorsort: Robbins, Tom
 author: Tom Robbins

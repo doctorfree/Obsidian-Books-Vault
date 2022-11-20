@@ -1,5 +1,6 @@
 ---
 bookid: 78275
+coverart: assets/bookcovers/1386924179l/78275.jpg
 title: The Wayward Bus
 authorsort: Steinbeck, John
 author: John Steinbeck

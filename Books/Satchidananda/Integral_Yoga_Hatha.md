@@ -1,5 +1,6 @@
 ---
 bookid: 649512
+coverart: assets/bookcovers/1352793612l/649512.jpg
 title: Integral Yoga Hatha
 authorsort: Satchidananda, Satchidananda
 author: Satchidananda

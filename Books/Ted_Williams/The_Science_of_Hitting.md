@@ -1,5 +1,6 @@
 ---
 bookid: 205658
+coverart: assets/bookcovers/1386924399l/205658.jpg
 title: The Science of Hitting
 authorsort: Williams, Ted
 author: Ted Williams

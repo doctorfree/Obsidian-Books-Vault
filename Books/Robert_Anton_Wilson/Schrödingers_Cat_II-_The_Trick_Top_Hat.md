@@ -1,5 +1,6 @@
 ---
 bookid: 125312
+coverart: assets/bookcovers/1320558902l/125312.jpg
 title: Schrödinger's Cat II: The Trick Top Hat
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

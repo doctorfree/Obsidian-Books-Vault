@@ -1,5 +1,6 @@
 ---
 bookid: 18811245
+coverart: assets/bookcovers/1451435552l/18811245.jpg
 title: MaddAddam (MaddAddam Trilogy #3)
 authorsort: Atwood, Margaret
 author: Margaret Atwood

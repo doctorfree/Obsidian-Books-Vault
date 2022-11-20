@@ -1,5 +1,6 @@
 ---
 bookid: 9370
+coverart: assets/bookcovers/1554143869l/9370.jpg
 title: Skinny Legs and All
 authorsort: Robbins, Tom
 author: Tom Robbins

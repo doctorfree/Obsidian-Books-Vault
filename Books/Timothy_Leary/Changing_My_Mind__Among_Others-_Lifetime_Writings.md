@@ -1,5 +1,6 @@
 ---
 bookid: 2091583
+coverart: assets/bookcovers/1245028136l/2091583.jpg
 title: "Changing My Mind, Among Others: Lifetime Writings"
 authorsort: Leary, Timothy
 author: Timothy Leary

@@ -1,5 +1,6 @@
 ---
 bookid: 137035
+coverart: assets/bookcovers/1327901752l/137035.jpg
 title: Cosmic Trigger 1: Final Secret of the Illuminati
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

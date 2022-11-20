@@ -1,5 +1,6 @@
 ---
 bookid: 5135
+coverart: assets/bookcovers/1386925117l/5135.jpg
 title: Point Counter Point
 authorsort: Huxley, Aldous
 author: Aldous Huxley

@@ -1,5 +1,6 @@
 ---
 bookid: 9595
+coverart: assets/bookcovers/1514342815l/9595._SY475_.jpg
 title: "Slapstick, or Lonesome No More!"
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

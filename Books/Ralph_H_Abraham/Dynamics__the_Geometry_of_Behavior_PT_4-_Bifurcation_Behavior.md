@@ -1,5 +1,6 @@
 ---
 bookid: 6549672
+coverart: assets/bookcovers/1245089635l/6549672.jpg
 title: "Dynamics, the Geometry of Behavior PT. 4: Bifurcation Behavior"
 authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham

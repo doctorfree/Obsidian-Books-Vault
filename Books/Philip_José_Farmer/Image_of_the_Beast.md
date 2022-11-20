@@ -1,5 +1,6 @@
 ---
 bookid: 370898
+coverart: assets/bookcovers/1388362088l/370898.jpg
 title: Image of the Beast
 authorsort: Farmer, Philip José
 author: Philip José Farmer

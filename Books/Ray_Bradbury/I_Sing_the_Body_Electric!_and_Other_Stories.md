@@ -1,5 +1,6 @@
 ---
 bookid: 74586
+coverart: assets/bookcovers/1318811480l/74586.jpg
 title: I Sing the Body Electric! & Other Stories
 authorsort: Bradbury, Ray
 author: Ray Bradbury

@@ -1,5 +1,6 @@
 ---
 bookid: 4934
+coverart: assets/bookcovers/1427728126l/4934.jpg
 title: The Brothers Karamazov
 authorsort: Dostoevsky, Fyodor
 author: Fyodor Dostoevsky

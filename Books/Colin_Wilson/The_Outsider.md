@@ -1,5 +1,6 @@
 ---
 bookid: 67880
+coverart: assets/bookcovers/1348172189l/67880.jpg
 title: The Outsider
 authorsort: Wilson, Colin
 author: Colin Wilson

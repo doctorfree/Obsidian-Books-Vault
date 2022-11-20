@@ -1,5 +1,6 @@
 ---
 bookid: 2325421
+coverart: assets/bookcovers/1388207107l/2325421.jpg
 title: All-Star Superman: Volume 1
 authorsort: Morrison, Grant
 author: Grant Morrison

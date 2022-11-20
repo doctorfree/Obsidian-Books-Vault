@@ -1,5 +1,6 @@
 ---
 bookid: 31813
+coverart: assets/bookcovers/1328811688l/31813.jpg
 title: The Simpsons and Philosophy: The D'oh! of Homer
 authorsort: Irwin, William
 author: William Irwin

@@ -1,5 +1,6 @@
 ---
 bookid: 337621
+coverart: assets/bookcovers/1244874431l/337621.jpg
 title: Images Are Dangerous
 authorsort: Brezsny, Rob
 author: Rob Brezsny

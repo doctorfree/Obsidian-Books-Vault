@@ -1,5 +1,6 @@
 ---
 bookid: 27400601
+coverart: assets/bookcovers/1446311614l/27400601._SX318_.jpg
 title: The Short Stories of Ernest Hemingway
 authorsort: Hemingway, Ernest
 author: Ernest Hemingway

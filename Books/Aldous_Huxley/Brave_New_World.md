@@ -1,5 +1,6 @@
 ---
 bookid: 5129
+coverart: assets/bookcovers/1575509280l/5129._SY475_.jpg
 title: Brave New World
 authorsort: Huxley, Aldous
 author: Aldous Huxley

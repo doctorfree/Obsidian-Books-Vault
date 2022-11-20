@@ -1,5 +1,6 @@
 ---
 bookid: 226477
+coverart: assets/bookcovers/1386920339l/226477.jpg
 title: The Zap Gun
 authorsort: Dick, Philip K.
 author: Philip K. Dick

@@ -1,5 +1,6 @@
 ---
 bookid: 81766
+coverart: assets/bookcovers/1435959317l/81766._SY475_.jpg
 title: Frogs Into Princes
 authorsort: Bandler, Richard
 author: Richard Bandler

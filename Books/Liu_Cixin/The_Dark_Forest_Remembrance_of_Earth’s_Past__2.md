@@ -1,5 +1,6 @@
 ---
 bookid: 23168817
+coverart: assets/bookcovers/1412064931l/23168817.jpg
 title: "The Dark Forest (Remembrance of Earth’s Past, #2)"
 authorsort: Cixin, Liu
 author: Liu Cixin

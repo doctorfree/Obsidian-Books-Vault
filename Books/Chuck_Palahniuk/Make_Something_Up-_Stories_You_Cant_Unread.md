@@ -1,5 +1,6 @@
 ---
 bookid: 22822857
+coverart: assets/bookcovers/1417407855l/22822857.jpg
 title: Make Something Up: Stories You Can't Unread
 authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk

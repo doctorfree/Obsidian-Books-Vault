@@ -1,5 +1,6 @@
 ---
 bookid: 147859
+coverart: assets/bookcovers/1347685068l/147859.jpg
 title: "Sex, Drugs, Einstein, & Elves: Sushi, Psychedelics, Parallel Universes, and the Quest for Transcendence"
 authorsort: Pickover, Clifford A.
 author: Clifford A. Pickover

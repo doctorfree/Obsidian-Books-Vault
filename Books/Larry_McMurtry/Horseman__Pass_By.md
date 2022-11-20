@@ -1,5 +1,6 @@
 ---
 bookid: 54825
+coverart: assets/bookcovers/1651918960l/54825.jpg
 title: "Horseman, Pass By"
 authorsort: McMurtry, Larry
 author: Larry McMurtry

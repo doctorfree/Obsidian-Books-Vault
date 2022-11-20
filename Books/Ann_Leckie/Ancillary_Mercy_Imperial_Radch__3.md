@@ -1,5 +1,6 @@
 ---
 bookid: 23533039
+coverart: assets/bookcovers/1493642929l/23533039.jpg
 title: "Ancillary Mercy (Imperial Radch, #3)"
 authorsort: Leckie, Ann
 author: Ann Leckie

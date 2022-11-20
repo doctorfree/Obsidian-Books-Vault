@@ -1,5 +1,6 @@
 ---
 bookid: 4031623
+coverart: assets/bookcovers/1245111872l/4031623.jpg
 title: Big Book of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

@@ -1,5 +1,6 @@
 ---
 bookid: 274046
+coverart: assets/bookcovers/1173324941l/274046.jpg
 title: Freeware (Ware #3)
 authorsort: Rucker, Rudy
 author: Rudy Rucker

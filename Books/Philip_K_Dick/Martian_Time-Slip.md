@@ -1,5 +1,6 @@
 ---
 bookid: 697251
+coverart: assets/bookcovers/1426354158l/697251.jpg
 title: Martian Time-Slip
 authorsort: Dick, Philip K.
 author: Philip K. Dick

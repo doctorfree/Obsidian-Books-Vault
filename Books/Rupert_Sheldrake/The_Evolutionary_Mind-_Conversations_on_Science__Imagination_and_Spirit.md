@@ -1,5 +1,6 @@
 ---
 bookid: 369075
+coverart: assets/bookcovers/1386925424l/369075.jpg
 title: "The Evolutionary Mind: Conversations on Science, Imagination & Spirit"
 authorsort: Sheldrake, Rupert
 author: Rupert Sheldrake

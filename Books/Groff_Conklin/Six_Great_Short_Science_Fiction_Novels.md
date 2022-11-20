@@ -1,5 +1,6 @@
 ---
 bookid: 78845
+coverart: assets/bookcovers/1227589744l/78845.jpg
 title: Six Great Short Science Fiction Novels
 authorsort: Conklin, Groff
 author: Groff Conklin

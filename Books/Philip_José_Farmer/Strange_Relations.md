@@ -1,5 +1,6 @@
 ---
 bookid: 6557240
+coverart: assets/bookcovers/1245379239l/6557240.jpg
 title: Strange Relations
 authorsort: Farmer, Philip José
 author: Philip José Farmer

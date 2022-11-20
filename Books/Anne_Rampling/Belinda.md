@@ -1,5 +1,6 @@
 ---
 bookid: 31334
+coverart: assets/bookcovers/1442192796l/31334._SY475_.jpg
 title: Belinda
 authorsort: Rampling, Anne
 author: Anne Rampling

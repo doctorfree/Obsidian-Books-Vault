@@ -1,5 +1,6 @@
 ---
 bookid: 125311
+coverart: assets/bookcovers/1238565398l/125311.jpg
 title: Schrödinger's Cat 3: The Homing Pigeons
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

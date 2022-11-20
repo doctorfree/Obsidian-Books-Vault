@@ -1,5 +1,6 @@
 ---
 bookid: 19288239
+coverart: assets/bookcovers/1409000450l/19288239.jpg
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 authorsort: Murakami, Haruki
 author: Haruki Murakami

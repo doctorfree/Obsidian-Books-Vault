@@ -1,5 +1,6 @@
 ---
 bookid: 10577306
+coverart: assets/bookcovers/1328056420l/10577306.jpg
 title: And on Piano ...Nicky Hopkins: The Extraordinary Life of Rock's Greatest Session Man
 authorsort: Dawson, Julian
 author: Julian Dawson

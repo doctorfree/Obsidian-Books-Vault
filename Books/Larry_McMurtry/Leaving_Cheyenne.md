@@ -1,5 +1,6 @@
 ---
 bookid: 54822
+coverart: assets/bookcovers/1388464380l/54822.jpg
 title: Leaving Cheyenne
 authorsort: McMurtry, Larry
 author: Larry McMurtry

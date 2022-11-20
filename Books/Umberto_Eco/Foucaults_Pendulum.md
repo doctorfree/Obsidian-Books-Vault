@@ -1,5 +1,6 @@
 ---
 bookid: 863942
+coverart: assets/bookcovers/1179000348l/863942.jpg
 title: Foucault's Pendulum
 authorsort: Eco, Umberto
 author: Umberto Eco

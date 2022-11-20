@@ -1,5 +1,6 @@
 ---
 bookid: 363202
+coverart: assets/bookcovers/1347703263l/363202.jpg
 title: Einstein's Miraculous Year
 authorsort: Stachel, John J.
 author: John J. Stachel

@@ -1,5 +1,6 @@
 ---
 bookid: 6549735
+coverart: assets/bookcovers/1245091834l/6549735.jpg
 title: Frontiers of Chaos
 authorsort: Peitgen, Heinz-Otto
 author: Heinz-Otto Peitgen

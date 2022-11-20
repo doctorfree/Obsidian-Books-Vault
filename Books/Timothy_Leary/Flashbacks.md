@@ -1,5 +1,6 @@
 ---
 bookid: 83491
+coverart: assets/bookcovers/1171046059l/83491.jpg
 title: Flashbacks
 authorsort: Leary, Timothy
 author: Timothy Leary

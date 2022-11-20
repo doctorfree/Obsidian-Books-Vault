@@ -1,5 +1,6 @@
 ---
 bookid: 25905
+coverart: assets/bookcovers/1386923584l/25905.jpg
 title: Beneath the Wheel
 authorsort: Hesse, Hermann
 author: Hermann Hesse

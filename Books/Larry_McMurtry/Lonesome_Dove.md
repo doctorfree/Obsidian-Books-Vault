@@ -1,5 +1,6 @@
 ---
 bookid: 22247011
+coverart: assets/bookcovers/1400685305l/22247011.jpg
 title: Lonesome Dove
 authorsort: McMurtry, Larry
 author: Larry McMurtry

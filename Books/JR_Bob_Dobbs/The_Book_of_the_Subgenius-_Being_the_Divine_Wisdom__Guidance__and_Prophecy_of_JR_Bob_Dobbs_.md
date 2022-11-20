@@ -1,5 +1,6 @@
 ---
 bookid: 3746492
+coverart: assets/bookcovers/1244922298l/3746492.jpg
 title: "The Book of the Subgenius: Being the Divine Wisdom, Guidance, and Prophecy of J.R. ""Bob"" Dobbs ..."
 authorsort: Dobbs", "J.R. ""Bob""
 author: "J.R. ""Bob"" Dobbs"

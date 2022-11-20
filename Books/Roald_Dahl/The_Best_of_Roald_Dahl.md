@@ -1,5 +1,6 @@
 ---
 bookid: 6330
+coverart: assets/bookcovers/1642047762l/6330.jpg
 title: The Best of Roald Dahl
 authorsort: Dahl, Roald
 author: Roald Dahl

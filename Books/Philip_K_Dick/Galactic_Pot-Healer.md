@@ -1,5 +1,6 @@
 ---
 bookid: 498123
+coverart: assets/bookcovers/1355312972l/498123.jpg
 title: Galactic Pot-Healer
 authorsort: Dick, Philip K.
 author: Philip K. Dick

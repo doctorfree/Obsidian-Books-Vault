@@ -1,5 +1,6 @@
 ---
 bookid: 12505
+coverart: assets/bookcovers/1657539107l/12505._SY475_.jpg
 title: The Idiot
 authorsort: Dostoevsky, Fyodor
 author: Fyodor Dostoevsky

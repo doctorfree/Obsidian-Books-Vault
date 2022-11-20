@@ -1,5 +1,6 @@
 ---
 bookid: 6550320
+coverart: assets/bookcovers/1245110227l/6550320.jpg
 title: A Treasury of Science Fiction
 authorsort: Conklin, Groff
 author: Groff Conklin

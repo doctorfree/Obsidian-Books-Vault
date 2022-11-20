@@ -1,5 +1,6 @@
 ---
 bookid: 472331
+coverart: assets/bookcovers/1442239711l/472331.jpg
 title: Watchmen
 authorsort: Moore, Alan
 author: Alan Moore

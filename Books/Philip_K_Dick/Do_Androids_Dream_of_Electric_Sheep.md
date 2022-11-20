@@ -1,5 +1,6 @@
 ---
 bookid: 7082
+coverart: assets/bookcovers/1519481930l/7082.jpg
 title: Do Androids Dream of Electric Sheep?
 authorsort: Dick, Philip K.
 author: Philip K. Dick

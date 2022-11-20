@@ -1,5 +1,6 @@
 ---
 bookid: 10398865
+coverart: assets/bookcovers/1327864748l/10398865.jpg
 title: The Search For Philip K. Dick 
 authorsort: Dick, Anne R.
 author: Anne R. Dick

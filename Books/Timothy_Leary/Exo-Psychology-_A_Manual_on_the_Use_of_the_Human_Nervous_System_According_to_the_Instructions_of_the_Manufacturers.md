@@ -1,5 +1,6 @@
 ---
 bookid: 817628
+coverart: assets/bookcovers/1244942161l/817628.jpg
 title: Exo-Psychology: A Manual on the Use of the Human Nervous System According to the Instructions of the Manufacturers
 authorsort: Leary, Timothy
 author: Timothy Leary

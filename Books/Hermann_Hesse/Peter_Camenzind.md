@@ -1,5 +1,6 @@
 ---
 bookid: 71943
+coverart: assets/bookcovers/1316131237l/71943.jpg
 title: Peter Camenzind
 authorsort: Hesse, Hermann
 author: Hermann Hesse

@@ -1,5 +1,6 @@
 ---
 bookid: 4929
+coverart: assets/bookcovers/1429638085l/4929.jpg
 title: Kafka on the Shore
 authorsort: Murakami, Haruki
 author: Haruki Murakami

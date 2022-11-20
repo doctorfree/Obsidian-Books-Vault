@@ -1,5 +1,6 @@
 ---
 bookid: 2249196
+coverart: assets/bookcovers/1320477944l/2249196.jpg
 title: "All-Star Superman, Vol. 2"
 authorsort: Morrison, Grant
 author: Grant Morrison

@@ -1,5 +1,6 @@
 ---
 bookid: 756108
+coverart: assets/bookcovers/1320415100l/756108.jpg
 title: Our Friends from Frolix 8
 authorsort: Dick, Philip K.
 author: Philip K. Dick

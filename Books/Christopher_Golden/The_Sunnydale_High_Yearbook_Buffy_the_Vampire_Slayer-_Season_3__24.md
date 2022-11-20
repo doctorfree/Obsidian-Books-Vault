@@ -1,5 +1,6 @@
 ---
 bookid: 293364
+coverart: assets/bookcovers/1388221981l/293364.jpg
 title: "The Sunnydale High Yearbook (Buffy the Vampire Slayer: Season 3, #24)"
 authorsort: Golden, Christopher
 author: Christopher Golden

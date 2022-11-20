@@ -1,5 +1,6 @@
 ---
 bookid: 22581
+coverart: assets/bookcovers/1475255949l/22581.jpg
 title: The Collected Stories of Philip K. Dick 2: We Can Remember it for You Wholesale
 authorsort: Dick, Philip K.
 author: Philip K. Dick

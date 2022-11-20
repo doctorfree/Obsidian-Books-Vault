@@ -1,5 +1,6 @@
 ---
 bookid: 54828
+coverart: assets/bookcovers/1418103925l/54828.jpg
 title: Somebody's Darling
 authorsort: McMurtry, Larry
 author: Larry McMurtry

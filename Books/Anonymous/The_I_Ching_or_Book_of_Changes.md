@@ -1,5 +1,6 @@
 ---
 bookid: 534289
+coverart: assets/bookcovers/1406503668l/534289.jpg
 title: The I Ching or Book of Changes
 authorsort: Anonymous, Anonymous
 author: Anonymous

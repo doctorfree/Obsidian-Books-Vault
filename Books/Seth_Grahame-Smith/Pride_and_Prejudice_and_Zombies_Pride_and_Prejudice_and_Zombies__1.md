@@ -1,5 +1,6 @@
 ---
 bookid: 5899779
+coverart: assets/bookcovers/1320449653l/5899779.jpg
 title: "Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)"
 authorsort: Grahame-Smith, Seth
 author: Seth Grahame-Smith

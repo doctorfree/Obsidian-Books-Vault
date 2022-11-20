@@ -1,5 +1,6 @@
 ---
 bookid: 216399
+coverart: assets/bookcovers/1355312910l/216399.jpg
 title: A Maze of Death
 authorsort: Dick, Philip K.
 author: Philip K. Dick

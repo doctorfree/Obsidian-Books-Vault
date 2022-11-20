@@ -1,5 +1,6 @@
 ---
 bookid: 564182
+coverart: assets/bookcovers/1348795329l/564182.jpg
 title: Wigfield: The Can-Do Town That Just May Not
 authorsort: Sedaris, Amy
 author: Amy Sedaris

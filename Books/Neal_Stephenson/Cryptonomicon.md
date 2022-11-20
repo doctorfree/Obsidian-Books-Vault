@@ -1,5 +1,6 @@
 ---
 bookid: 816
+coverart: assets/bookcovers/1327931476l/816.jpg
 title: Cryptonomicon
 authorsort: Stephenson, Neal
 author: Neal Stephenson

@@ -1,5 +1,6 @@
 ---
 bookid: 691586
+coverart: assets/bookcovers/1245453176l/691586.jpg
 title: "Space, Time and Beyond"
 authorsort: Toben, Bob
 author: Bob Toben

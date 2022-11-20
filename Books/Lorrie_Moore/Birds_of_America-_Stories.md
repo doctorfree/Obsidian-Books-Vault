@@ -1,5 +1,6 @@
 ---
 bookid: 19631
+coverart: assets/bookcovers/1388641896l/19631.jpg
 title: Birds of America: Stories
 authorsort: Moore, Lorrie
 author: Lorrie Moore

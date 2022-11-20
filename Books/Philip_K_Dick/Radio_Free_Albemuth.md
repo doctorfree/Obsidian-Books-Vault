@@ -1,5 +1,6 @@
 ---
 bookid: 226475
+coverart: assets/bookcovers/1355312826l/226475.jpg
 title: Radio Free Albemuth
 authorsort: Dick, Philip K.
 author: Philip K. Dick

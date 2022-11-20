@@ -1,5 +1,6 @@
 ---
 bookid: 12573
+coverart: assets/bookcovers/1382942465l/12573.jpg
 title: The Edna Webster Collection of Undiscovered Writing
 authorsort: Brautigan, Richard
 author: Richard Brautigan

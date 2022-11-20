@@ -1,5 +1,6 @@
 ---
 bookid: 433322
+coverart: assets/bookcovers/1348847343l/433322.jpg
 title: "Goetia the Lesser Key of Solomon the King: Lemegeton, Book 1 Clavicula Salomonis Regis"
 authorsort: Mathers, S.L. MacGregor
 author: S.L. MacGregor Mathers

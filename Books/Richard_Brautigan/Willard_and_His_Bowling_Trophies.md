@@ -1,5 +1,6 @@
 ---
 bookid: 88013
+coverart: assets/bookcovers/1314238250l/88013.jpg
 title: Willard and His Bowling Trophies
 authorsort: Brautigan, Richard
 author: Richard Brautigan

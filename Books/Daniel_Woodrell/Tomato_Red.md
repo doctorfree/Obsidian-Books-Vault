@@ -1,5 +1,6 @@
 ---
 bookid: 12843127
+coverart: assets/bookcovers/1344266771l/12843127.jpg
 title: Tomato Red
 authorsort: Woodrell, Daniel
 author: Daniel Woodrell

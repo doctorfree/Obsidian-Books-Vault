@@ -1,5 +1,6 @@
 ---
 bookid: 6290235
+coverart: assets/bookcovers/1328306746l/6290235.jpg
 title: Complete Poetical Works
 authorsort: Poe, Edgar Allan
 author: Edgar Allan Poe

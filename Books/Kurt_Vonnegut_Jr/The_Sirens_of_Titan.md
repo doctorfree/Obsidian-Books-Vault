@@ -1,5 +1,6 @@
 ---
 bookid: 4982
+coverart: assets/bookcovers/1419363185l/4982.jpg
 title: The Sirens of Titan
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

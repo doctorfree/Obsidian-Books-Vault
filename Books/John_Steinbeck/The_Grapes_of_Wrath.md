@@ -1,5 +1,6 @@
 ---
 bookid: 4395
+coverart: assets/bookcovers/1511302892l/4395._SY475_.jpg
 title: The Grapes of Wrath
 authorsort: Steinbeck, John
 author: John Steinbeck

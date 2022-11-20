@@ -1,5 +1,6 @@
 ---
 bookid: 20576746
+coverart: assets/bookcovers/1390147523l/20576746.jpg
 title: Dance Dance Dance
 authorsort: Murakami, Haruki
 author: Haruki Murakami

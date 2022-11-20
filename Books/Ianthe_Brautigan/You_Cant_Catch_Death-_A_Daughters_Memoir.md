@@ -1,5 +1,6 @@
 ---
 bookid: 851879
+coverart: assets/bookcovers/1312023740l/851879.jpg
 title: You Can't Catch Death: A Daughter's Memoir
 authorsort: Brautigan, Ianthe
 author: Ianthe Brautigan

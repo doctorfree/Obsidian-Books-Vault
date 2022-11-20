@@ -1,5 +1,6 @@
 ---
 bookid: 13519
+coverart: assets/bookcovers/1431516525l/13519._SY475_.jpg
 title: The Journey to the East
 authorsort: Hesse, Hermann
 author: Hermann Hesse

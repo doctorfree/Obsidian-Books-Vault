@@ -1,5 +1,6 @@
 ---
 bookid: 839056
+coverart: assets/bookcovers/1348823277l/839056.jpg
 title: Only Apparently Real
 authorsort: Williams, Paul
 author: Paul Williams

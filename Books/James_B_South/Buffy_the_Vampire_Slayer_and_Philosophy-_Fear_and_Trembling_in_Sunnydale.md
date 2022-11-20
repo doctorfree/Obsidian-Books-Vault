@@ -1,5 +1,6 @@
 ---
 bookid: 31912
+coverart: assets/bookcovers/1327190130l/31912.jpg
 title: Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale
 authorsort: South, James B.
 author: James B. South

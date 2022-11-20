@@ -1,5 +1,6 @@
 ---
 bookid: 216381
+coverart: assets/bookcovers/1390275500l/216381.jpg
 title: Eye in the Sky
 authorsort: Dick, Philip K.
 author: Philip K. Dick

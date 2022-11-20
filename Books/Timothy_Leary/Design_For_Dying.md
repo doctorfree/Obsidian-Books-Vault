@@ -1,5 +1,6 @@
 ---
 bookid: 460053
+coverart: assets/bookcovers/1174948159l/460053.jpg
 title: Design For Dying
 authorsort: Leary, Timothy
 author: Timothy Leary

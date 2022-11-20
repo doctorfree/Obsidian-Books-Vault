@@ -1,5 +1,6 @@
 ---
 bookid: 844841
+coverart: assets/bookcovers/1229969522l/844841.jpg
 title: "Happy Birthday, Wanda June"
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

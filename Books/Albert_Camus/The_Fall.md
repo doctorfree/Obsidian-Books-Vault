@@ -1,5 +1,6 @@
 ---
 bookid: 15757119
+coverart: assets/bookcovers/1446313548l/15757119._SX318_.jpg
 title: The Fall
 authorsort: Camus, Albert
 author: Albert Camus

@@ -1,5 +1,6 @@
 ---
 bookid: 62584
+coverart: assets/bookcovers/1652865575l/62584._SY475_.jpg
 title: Coincidance: A Head Test
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

@@ -1,5 +1,6 @@
 ---
 bookid: 4803
+coverart: assets/bookcovers/1347101321l/4803.jpg
 title: The Log from the Sea of Cortez
 authorsort: Steinbeck, John
 author: John Steinbeck

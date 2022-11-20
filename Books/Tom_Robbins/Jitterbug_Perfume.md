@@ -1,5 +1,6 @@
 ---
 bookid: 8682
+coverart: assets/bookcovers/1388607752l/8682.jpg
 title: Jitterbug Perfume
 authorsort: Robbins, Tom
 author: Tom Robbins

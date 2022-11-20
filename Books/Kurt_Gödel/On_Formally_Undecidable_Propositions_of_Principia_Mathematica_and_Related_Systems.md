@@ -1,5 +1,6 @@
 ---
 bookid: 208288
+coverart: assets/bookcovers/1328862649l/208288.jpg
 title: On Formally Undecidable Propositions of Principia Mathematica and Related Systems
 authorsort: Gödel, Kurt
 author: Kurt Gödel

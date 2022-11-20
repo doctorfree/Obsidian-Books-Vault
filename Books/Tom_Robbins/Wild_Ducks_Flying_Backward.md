@@ -1,5 +1,6 @@
 ---
 bookid: 8675
+coverart: assets/bookcovers/1433174912l/8675._SX318_.jpg
 title: Wild Ducks Flying Backward
 authorsort: Robbins, Tom
 author: Tom Robbins

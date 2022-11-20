@@ -1,5 +1,6 @@
 ---
 bookid: 1131032
+coverart: assets/bookcovers/1568362022l/1131032._SX318_.jpg
 title: Dreaming of Babylon
 authorsort: Brautigan, Richard
 author: Richard Brautigan

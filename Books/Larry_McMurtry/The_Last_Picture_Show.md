@@ -1,5 +1,6 @@
 ---
 bookid: 50051
+coverart: assets/bookcovers/1344275927l/50051.jpg
 title: The Last Picture Show
 authorsort: McMurtry, Larry
 author: Larry McMurtry

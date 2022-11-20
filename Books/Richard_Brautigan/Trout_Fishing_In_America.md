@@ -1,5 +1,6 @@
 ---
 bookid: 63914
+coverart: assets/bookcovers/1483477487l/63914.jpg
 title: Trout Fishing In America
 authorsort: Brautigan, Richard
 author: Richard Brautigan

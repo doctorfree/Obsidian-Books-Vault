@@ -1,5 +1,6 @@
 ---
 bookid: 13329016
+coverart: assets/bookcovers/1325084726l/13329016.jpg
 title: Candide
 authorsort: Voltaire, Voltaire
 author: Voltaire

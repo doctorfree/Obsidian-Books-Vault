@@ -1,5 +1,6 @@
 ---
 bookid: 6550528
+coverart: assets/bookcovers/1628744950l/6550528.jpg
 title: Slaughterhouse-Five
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

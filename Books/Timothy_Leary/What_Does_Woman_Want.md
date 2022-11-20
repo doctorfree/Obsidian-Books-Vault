@@ -1,5 +1,6 @@
 ---
 bookid: 346007
+coverart: assets/bookcovers/1244941897l/346007.jpg
 title: What Does Woman Want?
 authorsort: Leary, Timothy
 author: Timothy Leary

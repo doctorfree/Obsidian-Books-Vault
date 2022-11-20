@@ -1,5 +1,6 @@
 ---
 bookid: 7572
+coverart: assets/bookcovers/1336172455l/7572.jpg
 title: Even Cowgirls Get the Blues
 authorsort: Robbins, Tom
 author: Tom Robbins

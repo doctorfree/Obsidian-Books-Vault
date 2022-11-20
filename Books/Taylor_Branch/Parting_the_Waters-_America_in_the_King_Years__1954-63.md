@@ -1,5 +1,6 @@
 ---
 bookid: 414077
+coverart: assets/bookcovers/1441025384l/414077._SY475_.jpg
 title: "Parting the Waters: America in the King Years, 1954-63"
 authorsort: Branch, Taylor
 author: Taylor Branch

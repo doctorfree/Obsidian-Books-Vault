@@ -1,5 +1,6 @@
 ---
 bookid: 869539
+coverart: assets/bookcovers/1245087679l/869539.jpg
 title: Dynamics The Geometry Of Behavior
 authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham

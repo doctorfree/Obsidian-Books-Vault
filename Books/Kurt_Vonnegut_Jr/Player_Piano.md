@@ -1,5 +1,6 @@
 ---
 bookid: 9597
+coverart: assets/bookcovers/1506301341l/9597._SY475_.jpg
 title: Player Piano
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

@@ -1,5 +1,6 @@
 ---
 bookid: 350
+coverart: assets/bookcovers/1156897088l/350._SY475_.jpg
 title: Stranger in a Strange Land
 authorsort: Heinlein, Robert A.
 author: Robert A. Heinlein

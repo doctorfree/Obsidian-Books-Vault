@@ -1,5 +1,6 @@
 ---
 bookid: 7144
+coverart: assets/bookcovers/1382846449l/7144.jpg
 title: Crime and Punishment
 authorsort: Dostoevsky, Fyodor
 author: Fyodor Dostoevsky

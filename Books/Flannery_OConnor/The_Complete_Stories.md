@@ -1,5 +1,6 @@
 ---
 bookid: 284996
+coverart: assets/bookcovers/1557999886l/284996._SY475_.jpg
 title: The Complete Stories
 authorsort: O'Connor, Flannery
 author: Flannery O'Connor

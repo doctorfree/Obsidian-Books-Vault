@@ -1,5 +1,6 @@
 ---
 bookid: 95044
+coverart: assets/bookcovers/1327956873l/95044.jpg
 title: In His Own Write
 authorsort: Lennon, John
 author: John Lennon

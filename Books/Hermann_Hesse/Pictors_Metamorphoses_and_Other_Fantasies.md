@@ -1,5 +1,6 @@
 ---
 bookid: 13515
+coverart: assets/bookcovers/1405456066l/13515.jpg
 title: Pictor's Metamorphoses and Other Fantasies
 authorsort: Hesse, Hermann
 author: Hermann Hesse

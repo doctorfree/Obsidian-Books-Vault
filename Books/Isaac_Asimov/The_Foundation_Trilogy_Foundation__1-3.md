@@ -1,5 +1,6 @@
 ---
 bookid: 46654
+coverart: assets/bookcovers/1316412178l/46654.jpg
 title: "The Foundation Trilogy (Foundation, #1-3)"
 authorsort: Asimov, Isaac
 author: Isaac Asimov

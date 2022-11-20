@@ -1,5 +1,6 @@
 ---
 bookid: 6550385
+coverart: assets/bookcovers/1245113520l/6550385.jpg
 title: The Genius and The Goddess
 authorsort: Huxley, Aldous
 author: Aldous Huxley

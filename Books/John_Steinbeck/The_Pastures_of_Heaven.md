@@ -1,5 +1,6 @@
 ---
 bookid: 6072285
+coverart: assets/bookcovers/1330303222l/6072285.jpg
 title: The Pastures of Heaven 
 authorsort: Steinbeck, John
 author: John Steinbeck

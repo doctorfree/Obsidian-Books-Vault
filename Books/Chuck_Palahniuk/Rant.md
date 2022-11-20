@@ -1,5 +1,6 @@
 ---
 bookid: 22285
+coverart: assets/bookcovers/1388248283l/22285.jpg
 title: Rant
 authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk

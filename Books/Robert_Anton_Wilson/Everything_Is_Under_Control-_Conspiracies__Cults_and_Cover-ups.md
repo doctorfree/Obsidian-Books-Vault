@@ -1,5 +1,6 @@
 ---
 bookid: 361838
+coverart: assets/bookcovers/1388900821l/361838.jpg
 title: "Everything Is Under Control: Conspiracies, Cults and Cover-ups"
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

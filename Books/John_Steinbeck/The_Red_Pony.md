@@ -1,5 +1,6 @@
 ---
 bookid: 8732
+coverart: assets/bookcovers/1391231816l/8732.jpg
 title: The Red Pony
 authorsort: Steinbeck, John
 author: John Steinbeck

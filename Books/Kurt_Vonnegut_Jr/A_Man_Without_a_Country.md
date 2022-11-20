@@ -1,5 +1,6 @@
 ---
 bookid: 4979
+coverart: assets/bookcovers/1330997432l/4979.jpg
 title: A Man Without a Country
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

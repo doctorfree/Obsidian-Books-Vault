@@ -1,5 +1,6 @@
 ---
 bookid: 11713909
+coverart: assets/bookcovers/1327858274l/11713909.jpg
 title: A Visit from the Goon Squad
 authorsort: Egan, Jennifer
 author: Jennifer Egan

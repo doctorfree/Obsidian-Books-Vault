@@ -1,5 +1,6 @@
 ---
 bookid: 163977
+coverart: assets/bookcovers/1400859671l/163977.jpg
 title: Tortilla Flat
 authorsort: Steinbeck, John
 author: John Steinbeck

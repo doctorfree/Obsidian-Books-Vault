@@ -1,5 +1,6 @@
 ---
 bookid: 6558232
+coverart: assets/bookcovers/1245455046l/6558232.jpg
 title: Salome
 authorsort: Wilde, Oscar
 author: Oscar Wilde

@@ -1,5 +1,6 @@
 ---
 bookid: 64284
+coverart: assets/bookcovers/1283706659l/64284.jpg
 title: Heaven and Hell
 authorsort: Huxley, Aldous
 author: Aldous Huxley

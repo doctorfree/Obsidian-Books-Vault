@@ -1,5 +1,6 @@
 ---
 bookid: 3158947
+coverart: assets/bookcovers/1345813864l/3158947.jpg
 title: Dare
 authorsort: Farmer, Philip José
 author: Philip José Farmer

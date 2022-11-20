@@ -1,5 +1,6 @@
 ---
 bookid: 2017530
+coverart: assets/bookcovers/1339883237l/2017530.jpg
 title: Welcome to the Monkey House
 authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.

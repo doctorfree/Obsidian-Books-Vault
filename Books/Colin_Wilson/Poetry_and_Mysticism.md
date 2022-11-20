@@ -1,5 +1,6 @@
 ---
 bookid: 1425317
+coverart: assets/bookcovers/1183487922l/1425317.jpg
 title: Poetry and Mysticism
 authorsort: Wilson, Colin
 author: Colin Wilson

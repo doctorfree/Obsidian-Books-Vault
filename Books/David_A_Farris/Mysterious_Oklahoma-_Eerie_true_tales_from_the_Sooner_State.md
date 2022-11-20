@@ -1,5 +1,6 @@
 ---
 bookid: 3364099
+coverart: assets/bookcovers/1387664591l/3364099.jpg
 title: Mysterious Oklahoma: Eerie true tales from the Sooner State
 authorsort: Farris, David A.
 author: David A. Farris

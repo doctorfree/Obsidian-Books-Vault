@@ -1,5 +1,6 @@
 ---
 bookid: 17070423
+coverart: assets/bookcovers/1357704698l/17070423.jpg
 title: Nilsson: The Life of a Singer-Songwriter
 authorsort: Shipton, Alyn
 author: Alyn Shipton

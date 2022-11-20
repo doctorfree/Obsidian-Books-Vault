@@ -1,5 +1,6 @@
 ---
 bookid: 274043
+coverart: assets/bookcovers/1388312090l/274043.jpg
 title: "Software (Ware, #1)"
 authorsort: Rucker, Rudy
 author: Rudy Rucker

@@ -1,5 +1,6 @@
 ---
 bookid: 62558
+coverart: assets/bookcovers/1388211254l/62558.jpg
 title: Quantum Psychology: How Brain Software Programs You & Your World
 authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson

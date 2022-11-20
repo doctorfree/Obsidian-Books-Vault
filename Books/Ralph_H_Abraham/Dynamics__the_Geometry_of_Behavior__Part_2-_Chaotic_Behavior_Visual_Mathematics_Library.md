@@ -1,5 +1,6 @@
 ---
 bookid: 6100757
+coverart: assets/bookcovers/1245089192l/6100757.jpg
 title: "Dynamics, the Geometry of Behavior, Part 2: Chaotic Behavior (Visual Mathematics Library)"
 authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham

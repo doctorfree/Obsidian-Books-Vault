@@ -1,5 +1,6 @@
 ---
 bookid: 1840511
+coverart: assets/bookcovers/1446089918l/1840511._SX318_.jpg
 title: Snuff
 authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk

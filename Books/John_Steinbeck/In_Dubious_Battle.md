@@ -1,5 +1,6 @@
 ---
 bookid: 56083
+coverart: assets/bookcovers/1394742698l/56083.jpg
 title: In Dubious Battle
 authorsort: Steinbeck, John
 author: John Steinbeck

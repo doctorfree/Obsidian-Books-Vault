@@ -1,5 +1,6 @@
 ---
 bookid: 744388
+coverart: assets/bookcovers/1417247265l/744388.jpg
 title: "The Crossing (The Border Trilogy, #2)"
 authorsort: McCarthy, Cormac
 author: Cormac McCarthy

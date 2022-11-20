@@ -1,5 +1,6 @@
 ---
 bookid: 383920
+coverart: assets/bookcovers/1388640715l/383920.jpg
 title: Elementary Geometry
 authorsort: Gustafson, Roy David
 author: Roy David Gustafson

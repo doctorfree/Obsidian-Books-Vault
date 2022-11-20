@@ -1,5 +1,6 @@
 ---
 bookid: 4381
+coverart: assets/bookcovers/1351643740l/4381.jpg
 title: Fahrenheit 451
 authorsort: Bradbury, Ray
 author: Ray Bradbury
