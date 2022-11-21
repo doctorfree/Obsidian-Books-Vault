@@ -1,10 +1,11 @@
 ---
-banner: "assets/banners/Books-Banner.png"
-banner_x: 1.0
-banner_y: 1.0
+banner: "assets/banners/Book-Banner.gif"
+banner_x: 0.5
+banner_y: 0.5
+banner_icon: 📚
 ---
 
-# Books
+# Books by Author
 
 ## See also
 

@@ -1,7 +1,7 @@
 ---
-banner: "assets/banners/Vault-Banner.png"
+banner: "assets/banners/Bird-Banner.gif"
 banner_x: 0.5
-banner_y: 0.6
+banner_y: 0.35
 ---
 
 # Books Vault Index
