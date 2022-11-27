@@ -1,8 +1,4 @@
----
-banner: "assets/banners/Obsidian-Banner.png"
-banner_x: 0.5
-banner_y: 0.5
----
+![](assets/obsidian.png)
 
 # Obsidian Books Vault
 
